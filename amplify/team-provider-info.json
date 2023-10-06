@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-soniadelete-dev-124242-authRole",
+      "UnauthRoleArn": "arn:aws:iam::703954904303:role/amplify-soniadelete-dev-124242-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::703954904303:role/amplify-soniadelete-dev-124242-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-soniadelete-dev-124242-deployment",
+      "UnauthRoleName": "amplify-soniadelete-dev-124242-unauthRole",
+      "StackName": "amplify-soniadelete-dev-124242",
+      "StackId": "arn:aws:cloudformation:us-east-1:703954904303:stack/amplify-soniadelete-dev-124242/34ca2670-639e-11ee-bc7c-12adc10573c9",
+      "AmplifyAppId": "d2gkokfqw9o3n4"
+    }
+  }
+}
